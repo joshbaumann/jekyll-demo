@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 1.2.1 Released'
-date: 2013-09-14 20:46:50 -0400
+title: Jekyll 1.2.1 Released
+date: 2013-09-14 17:46:50 -07:00
+categories:
+- release
 author: parkr
 version: 1.2.1
-categories: [release]
 ---
 
 Quick turnover, anyone? A [recent incompatibility with Liquid

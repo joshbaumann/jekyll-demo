@@ -1,8 +1,9 @@
 ---
-title: "Jekyll's Google Summer of Code Project: The CMS You Always Wanted"
-date: "2016-06-03 13:21:02 -0700"
+title: 'Jekyll''s Google Summer of Code Project: The CMS You Always Wanted'
+date: 2016-06-03 13:21:02 -07:00
+categories:
+- community
 author: parkr
-categories: [community]
 ---
 
 This year, Jekyll applied to be a part of [Google Summer of Code](https://summerofcode.withgoogle.com/how-it-works/). Students were able to propose any project related to Jekyll. With a gracious sponsorship from GitHub and the participation of myself, @benbalter and @jldec, Jekyll was able to accept two students for the 2016 season, @mertkahyaoglu and @rush-skills.

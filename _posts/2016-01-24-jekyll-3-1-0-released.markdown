@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.1.0 Released'
-date: 2016-01-24 13:16:12 -0800
+title: Jekyll 3.1.0 Released
+date: 2016-01-24 13:16:12 -08:00
+categories:
+- release
 author: parkr
 version: 3.1.0
-categories: [release]
 ---
 
 Happy weekend! To make your weekend all the better, we have just released

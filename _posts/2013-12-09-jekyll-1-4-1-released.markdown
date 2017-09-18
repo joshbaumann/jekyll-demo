@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 1.4.1 Released'
-date: 2013-12-09 20:44:13 -0600
+title: Jekyll 1.4.1 Released
+date: 2013-12-09 18:44:13 -08:00
+categories:
+- release
 author: mattr-
 version: 1.4.1
-categories: [release]
 ---
 
 Another quick turnover, anyone? A [critical

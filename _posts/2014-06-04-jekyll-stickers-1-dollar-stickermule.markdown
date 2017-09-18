@@ -1,8 +1,9 @@
 ---
-title: 'Pick Up your $1 Jekyll Sticker'
-date: 2014-06-04 15:46:53 -0400
+title: Pick Up your $1 Jekyll Sticker
+date: 2014-06-04 12:46:53 -07:00
+categories:
+- partners
 author: parkr
-categories: [partners]
 ---
 
 ![Jekyll Sticker](/img/jekyll-sticker.jpg)

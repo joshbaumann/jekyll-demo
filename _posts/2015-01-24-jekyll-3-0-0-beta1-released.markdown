@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.0.0.beta1 Released'
-date: 2015-01-24 00:42:31 -0800
+title: Jekyll 3.0.0.beta1 Released
+date: 2015-01-24 00:42:31 -08:00
+categories:
+- release
 author: parkr
 version: 3.0.0.beta1
-categories: [release]
 ---
 
 Hey!

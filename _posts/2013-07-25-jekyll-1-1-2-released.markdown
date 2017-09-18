@@ -1,9 +1,10 @@
 ---
-title: "Jekyll 1.1.2 Released"
-date: "2013-07-25 09:08:38 +0200"
+title: Jekyll 1.1.2 Released
+date: 2013-07-25 00:08:38 -07:00
+categories:
+- release
 author: parkr
 version: 1.1.2
-categories: [release]
 ---
 
 Version 1.1.2 fixes a minor, but nonetheless important security vulnerability affecting several third-party Jekyll plugins. If your Jekyll site does not use plugins, you may, but are not required to upgrade at this time.

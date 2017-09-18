@@ -1,6 +1,6 @@
 ---
 title: Permalinks
-permalink: /docs/permalinks/
+permalink: "/docs/permalinks/"
 ---
 
 Permalinks refer to the URLs (excluding the domain name or directory folder) for your pages, posts, or collections.

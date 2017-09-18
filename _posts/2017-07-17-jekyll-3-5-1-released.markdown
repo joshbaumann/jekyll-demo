@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.5.1 Released'
-date: 2017-07-17 12:40:37 -0400
+title: Jekyll 3.5.1 Released
+date: 2017-07-17 09:40:37 -07:00
+categories:
+- release
 author: parkr
 version: 3.5.1
-categories: [release]
 ---
 
 We've released a few bugfixes in the form of v3.5.1 today:

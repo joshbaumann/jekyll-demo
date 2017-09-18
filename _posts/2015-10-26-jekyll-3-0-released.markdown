@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.0 Released'
-date: 2015-10-26 15:37:30 -0700
+title: Jekyll 3.0 Released
+date: 2015-10-26 15:37:30 -07:00
+categories:
+- release
 author: parkr
 version: 3.0
-categories: [release]
 ---
 
 The much-anticipated Jekyll 3.0 has been released! Key changes:

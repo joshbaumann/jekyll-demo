@@ -1,6 +1,6 @@
 ---
 title: Jekyll on Windows
-permalink: /docs/windows/
+permalink: "/docs/windows/"
 ---
 
 While Windows is not an officially-supported platform, it can be used to run Jekyll with the proper tweaks. This page aims to collect some of the general knowledge and lessons that have been unearthed by Windows users.

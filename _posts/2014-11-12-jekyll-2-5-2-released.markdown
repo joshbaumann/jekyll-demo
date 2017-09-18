@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 2.5.2 Released'
-date: 2014-11-12 18:49:08 -0800
+title: Jekyll 2.5.2 Released
+date: 2014-11-12 18:49:08 -08:00
+categories:
+- release
 author: parkr
 version: 2.5.2
-categories: [release]
 ---
 
 A very minor release, 2.5.2 fixes a bug with path sanitation that 2.5.1

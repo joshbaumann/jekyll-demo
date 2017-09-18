@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Getting Help
+layout: page
 ---
 
 Need help with Jekyll? Try these resources.

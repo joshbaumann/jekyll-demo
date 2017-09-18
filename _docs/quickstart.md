@@ -1,8 +1,7 @@
 ---
 title: Quick-start guide
-permalink: /docs/quickstart/
+permalink: "/docs/quickstart/"
 ---
-
 
 If you already have a full [Ruby](https://www.ruby-lang.org/en/downloads/) development environment with all headers and [RubyGems](https://rubygems.org/pages/download) installed (see Jekyll's [requirements](/docs/installation/#requirements)), you can create a new Jekyll site by doing the following:
 

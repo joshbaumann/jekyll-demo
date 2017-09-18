@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.4.1, or "Unintended Consequences"'
-date: 2017-03-02 14:20:26 -0500
+title: Jekyll 3.4.1, or "Unintended Consequences"
+date: 2017-03-02 11:20:26 -08:00
+categories:
+- release
 author: parkr
 version: 3.4.1
-categories: [release]
 ---
 
 Conformity is a confounding thing.

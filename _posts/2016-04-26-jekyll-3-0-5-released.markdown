@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.0.5 Released'
-date: 2016-04-26 17:40:44 -0700
+title: Jekyll 3.0.5 Released
+date: 2016-04-26 17:40:44 -07:00
+categories:
+- release
 author: parkr
 version: 3.0.5
-categories: [release]
 ---
 
 This version fixes a bug affecting only v3.0.4 where autoregeneration was

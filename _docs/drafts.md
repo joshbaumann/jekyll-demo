@@ -1,6 +1,6 @@
 ---
 title: Working with drafts
-permalink: /docs/drafts/
+permalink: "/docs/drafts/"
 ---
 
 Drafts are posts without a date. They're posts you're still working on and

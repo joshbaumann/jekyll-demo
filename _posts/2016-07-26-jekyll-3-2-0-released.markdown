@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll turns 3.2'
-date: 2016-07-26 15:06:49 -0700
+title: Jekyll turns 3.2
+date: 2016-07-26 15:06:49 -07:00
+categories:
+- release
 author: parkr
 version: 3.2.0
-categories: [release]
 ---
 
 Happy Day! Jekyll v3.2.0 is out, and packed full of goodies.

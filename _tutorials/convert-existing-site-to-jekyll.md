@@ -1,7 +1,7 @@
 ---
-layout: tutorials
-permalink: /tutorials/convert-site-to-jekyll/
 title: Convert an HTML site to Jekyll
+permalink: "/tutorials/convert-site-to-jekyll/"
+layout: tutorials
 ---
 
 If you're looking for themes for your Jekyll site, you don't have to restrict yourself to existing Jekyll themes. It's pretty easy to convert almost any static HTML files into a Jekyll website.

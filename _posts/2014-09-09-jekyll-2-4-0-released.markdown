@@ -1,9 +1,10 @@
 ---
-title: 'A Wild Jekyll 2.4.0 Appeared!'
-date: 2014-09-09 21:10:33 -0700
+title: A Wild Jekyll 2.4.0 Appeared!
+date: 2014-09-09 21:10:33 -07:00
+categories:
+- release
 author: parkr
 version: 2.4.0
-categories: [release]
 ---
 
 Well, lookie here! A new release of Jekyll! v2.4.0 contains lots of goodies, including some brilliant new additions:

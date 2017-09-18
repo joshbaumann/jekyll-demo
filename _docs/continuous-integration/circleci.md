@@ -1,5 +1,5 @@
 ---
-title: "CircleCI"
+title: CircleCI
 ---
 
 Building, testing, and deploying your Jekyll-generated website can quickly be done with [CircleCI][0], a continuous integration & delivery tool. CircleCI supports [GitHub][1] and [Bitbucket][2], and you can get started for free using an open-source or private repository.

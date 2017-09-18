@@ -1,9 +1,10 @@
 ---
-title: "Jekyll 1.0.0 Released"
-date: "2013-05-06 02:12:52 +0200"
+title: Jekyll 1.0.0 Released
+date: 2013-05-05 17:12:52 -07:00
+categories:
+- release
 author: parkr
 version: 1.0.0
-categories: [release]
 ---
 
 Hey! After many months of hard work by Jekyll's contributors, we're excited

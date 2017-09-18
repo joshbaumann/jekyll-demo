@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 1.3.0.rc1 Released'
-date: 2013-10-28 20:14:39 -0500
+title: Jekyll 1.3.0.rc1 Released
+date: 2013-10-28 18:14:39 -07:00
+categories:
+- release
 author: mattr-
 version: 1.3.0.rc1
-categories: [release]
 ---
 
 Jekyll 1.3.0 is going to be a big release! In order to make sure we

@@ -1,8 +1,8 @@
 ---
-layout: tutorials
 title: Tutorials
-permalink: /tutorials/home/
-redirect_from: /tutorials/index.html
+permalink: "/tutorials/home/"
+layout: tutorials
+redirect_from: "/tutorials/index.html"
 ---
 
 In contrast to [Docs](/docs/home/), Tutorials provide more detailed, narrative instruction that cover a variety of Jekyll topics and scenarios. Tutorials might contain the following:

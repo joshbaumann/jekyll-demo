@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.3 is here with better theme support, new URL filters, and tons more'
-date: 2016-10-06 11:10:38 -0700
+title: Jekyll 3.3 is here with better theme support, new URL filters, and tons more
+date: 2016-10-06 11:10:38 -07:00
+categories:
+- release
 author: parkr
 version: 3.3.0
-categories: [release]
 ---
 
 There are tons of great new quality-of-life features you can use in 3.3.

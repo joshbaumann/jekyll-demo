@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll Turns 21! Err... I mean 2.1.0.'
-date: 2014-06-28 17:26:59 -0400
+title: Jekyll Turns 21! Err... I mean 2.1.0.
+date: 2014-06-28 14:26:59 -07:00
+categories:
+- release
 author: parkr
 version: 2.1.0
-categories: [release]
 ---
 
 Jekyll's finally [legal to drink in the States](https://en.wikipedia.org/wiki/Legal_drinking_age).

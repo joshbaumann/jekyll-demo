@@ -1,6 +1,6 @@
 ---
 title: Pagination
-permalink: /docs/pagination/
+permalink: "/docs/pagination/"
 ---
 
 With many websites &mdash; especially blogs &mdash; it’s very common to

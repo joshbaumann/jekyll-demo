@@ -1,7 +1,7 @@
 ---
-layout: tutorials
-permalink: /tutorials/orderofinterpretation/
 title: Order of interpretation
+permalink: "/tutorials/orderofinterpretation/"
+layout: tutorials
 ---
 
 Jekyll's main job is to convert your raw text files into a static website. It does this by rendering Liquid, Markdown, and other transforms as it generates the static HTML output.

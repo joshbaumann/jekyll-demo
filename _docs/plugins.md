@@ -1,6 +1,6 @@
 ---
 title: Plugins
-permalink: /docs/plugins/
+permalink: "/docs/plugins/"
 ---
 
 Jekyll has a plugin system with hooks that allow you to create custom generated

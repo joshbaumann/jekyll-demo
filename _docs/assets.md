@@ -1,6 +1,6 @@
 ---
 title: Assets
-permalink: /docs/assets/
+permalink: "/docs/assets/"
 ---
 
 Jekyll provides built-in support for Sass and can work with CoffeeScript via

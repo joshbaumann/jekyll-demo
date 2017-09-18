@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll turns 3.5, oh my!'
-date: 2017-06-15 17:32:32 -0400
+title: Jekyll turns 3.5, oh my!
+date: 2017-06-15 14:32:32 -07:00
+categories:
+- release
 author: parkr
 version: 3.5.0
-categories: [release]
 ---
 
 Good news! Nearly 400 commits later, Jekyll 3.5.0 has been released into

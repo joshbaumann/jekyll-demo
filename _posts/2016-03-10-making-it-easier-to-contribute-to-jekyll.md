@@ -1,8 +1,12 @@
 ---
 title: Making it easier to contribute to Jekyll
-description: We've made it easier to contribute to Jekyll by updating our contributing documentation and introducing Jekyll Affinity Teams, teams dedicated to specific aspects of the project.
+date: 2016-03-10 00:00:00 -08:00
+categories:
+- community
+description: We've made it easier to contribute to Jekyll by updating our contributing
+  documentation and introducing Jekyll Affinity Teams, teams dedicated to specific
+  aspects of the project.
 author: benbalter
-categories: [community]
 ---
 
 Jekyll is an open source project, built one contribution at a time by community members just like you. These community contributions can come in many forms beyond just writing code, from reporting an issue or suggesting a new feature to improving documentation or providing feedback on proposed changes.

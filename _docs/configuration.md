@@ -1,6 +1,6 @@
 ---
 title: Configuration
-permalink: /docs/configuration/
+permalink: "/docs/configuration/"
 ---
 
 Jekyll allows you to concoct your sites in any way you can dream up, and it’s

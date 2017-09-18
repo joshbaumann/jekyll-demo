@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 2.2.0 Released'
-date: 2014-07-29 18:59:13 -0400
+title: Jekyll 2.2.0 Released
+date: 2014-07-29 15:59:13 -07:00
+categories:
+- release
 author: parkr
 version: 2.2.0
-categories: [release]
 ---
 
 Jekyll 2.2.0 contains a few key updates:

@@ -1,8 +1,9 @@
 ---
-title: "Jekyll Meet & Greet at GitHub HQ"
-date: "2015-01-20 19:23:12 -0800"
+title: Jekyll Meet & Greet at GitHub HQ
+date: 2015-01-20 19:23:12 -08:00
+categories:
+- meetup
 author: parkr
-categories: [meetup]
 ---
 
 Hey! Our friends at GitHub have agreed to host a Jekyll meet & greet on

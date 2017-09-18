@@ -1,6 +1,6 @@
 ---
 title: Creating pages
-permalink: /docs/pages/
+permalink: "/docs/pages/"
 ---
 
 In addition to [writing posts](../posts/), you might also want to add static pages (content that isn't date-based) to your Jekyll site. By taking advantage of the way Jekyll copies files and directories, this is easy to do.

@@ -1,6 +1,6 @@
 ---
 title: Basic Usage
-permalink: /docs/usage/
+permalink: "/docs/usage/"
 ---
 
 The Jekyll gem makes a `jekyll` executable available to you in your Terminal

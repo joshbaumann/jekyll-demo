@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting
-permalink: /docs/troubleshooting/
+permalink: "/docs/troubleshooting/"
 ---
 
 If you ever run into problems installing or using Jekyll, here are a few tips

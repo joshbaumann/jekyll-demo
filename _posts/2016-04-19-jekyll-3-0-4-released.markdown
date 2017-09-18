@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.0.4 Released'
-date: 2016-04-19 10:26:12 -0700
+title: Jekyll 3.0.4 Released
+date: 2016-04-19 10:26:12 -07:00
+categories:
+- release
 author: parkr
 version: 3.0.4
-categories: [release]
 ---
 
 v3.0.4 is a patch release which fixes the follow two issues:

@@ -1,7 +1,7 @@
 ---
-layout: tutorials
-permalink: /tutorials/custom-404-page/
 title: Custom 404 Page
+permalink: "/tutorials/custom-404-page/"
+layout: tutorials
 ---
 
 You can easily serve custom 404 error pages with Jekyll to replace the default **Error 404 -- File Not Found** page displayed when one tries to access a broken link on your site.

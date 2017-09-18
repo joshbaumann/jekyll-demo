@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 1.3.1 Released'
-date: 2013-11-26 19:52:20 -0600
+title: Jekyll 1.3.1 Released
+date: 2013-11-26 17:52:20 -08:00
+categories:
+- release
 author: mattr-
 version: 1.3.1
-categories: [release]
 ---
 
 Just in time for the US holiday Thanksgiving, we're releasing version

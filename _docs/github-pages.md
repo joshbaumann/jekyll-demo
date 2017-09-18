@@ -1,6 +1,6 @@
 ---
 title: GitHub Pages
-permalink: /docs/github-pages/
+permalink: "/docs/github-pages/"
 ---
 
 [GitHub Pages](https://pages.github.com) are public web pages for users,

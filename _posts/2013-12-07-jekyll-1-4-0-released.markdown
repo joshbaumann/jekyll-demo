@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 1.4.0 Released'
-date: 2013-12-07 13:55:28 -0600
+title: Jekyll 1.4.0 Released
+date: 2013-12-07 11:55:28 -08:00
+categories:
+- release
 author: mattr-
 version: 1.4.0
-categories: [release]
 ---
 
 About a month after the release of Jekyll v1.3.0, we are releasing

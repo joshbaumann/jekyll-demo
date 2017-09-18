@@ -1,6 +1,6 @@
 ---
 title: Templates
-permalink: /docs/templates/
+permalink: "/docs/templates/"
 ---
 
 Jekyll uses the [Liquid](https://shopify.github.io/liquid/) templating language to

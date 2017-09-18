@@ -1,5 +1,5 @@
 ---
-title: "Buddy"
+title: Buddy
 ---
 
 [Buddy][buddy-homepage] is a [Docker][docker-homepage]-based CI server that you can set up in 15-20 minutes to build, test, and deploy your Jekyll websites. It supports [GitHub][github-homepage], [Bitbucket][bitbucket-homepage], and [GitLab][gitlab-homepage] repositories, and can be installed on-premises or used in cloud. The following guide will show you how to set up a free environment to build and test your Jekyll project.

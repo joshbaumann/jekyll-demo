@@ -1,11 +1,11 @@
 ---
-title: "Jekyll 1.1.1 Released"
-date: "2013-07-24 22:24:14 +0200"
+title: Jekyll 1.1.1 Released
+date: 2013-07-24 13:24:14 -07:00
+categories:
+- release
 author: parkr
 version: 1.1.1
-categories: [release]
 ---
-
 
 Coming just 10 days after the release of v1.1.0, v1.1.1 is out with a patch for the nasty
 excerpt inception bug ([#1339][]) and non-zero exit codes for invalid commands

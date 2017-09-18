@@ -1,5 +1,5 @@
 ---
-title: "Travis CI"
+title: Travis CI
 ---
 
 You can easily test your website build against one or more versions of Ruby.

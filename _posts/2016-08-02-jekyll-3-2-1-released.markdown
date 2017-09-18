@@ -1,9 +1,10 @@
 ---
-title: 'Jekyll 3.2.1 Released with Fix for Windows'
-date: 2016-08-02 13:20:11 -0700
+title: Jekyll 3.2.1 Released with Fix for Windows
+date: 2016-08-02 13:20:11 -07:00
+categories:
+- release
 author: parkr
 version: 3.2.1
-categories: [release]
 ---
 
 Well, 3.2.0 has been a success, but with one fatal flaw: it doesn't work on
