@@ -1,0 +1,10 @@
+---
+pages:
+- _docs/test.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: docs
